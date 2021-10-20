@@ -1,0 +1,19 @@
+SMAP
+viewallcustomersorder_jsp.java
+JSP
+*S JSP
+*F
++ 0 viewallcustomersorder.jsp
+viewallcustomersorder.jsp
+*L
+1,102:48
+102,17:150
+119,2:168
+120,3:170
+123,7:173,3
+130:194
+131:195,3
+132,2:198
+134,3:201
+136,8:204
+*E

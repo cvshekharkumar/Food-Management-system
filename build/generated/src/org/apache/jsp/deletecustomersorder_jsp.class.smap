@@ -1,0 +1,18 @@
+SMAP
+deletecustomersorder_jsp.java
+JSP
+*S JSP
+*F
++ 0 deletecustomersorder.jsp
+deletecustomersorder.jsp
+*L
+1,78:48
+78,2:126
+89,6:128
+95,6:134,3
+101:152
+102:153,3
+103,9:156
+112,3:166
+114,8:169
+*E

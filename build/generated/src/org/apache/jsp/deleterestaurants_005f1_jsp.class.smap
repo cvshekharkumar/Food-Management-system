@@ -1,0 +1,14 @@
+SMAP
+deleterestaurants_005f1_jsp.java
+JSP
+*S JSP
+*F
++ 0 deleterestaurants_1.jsp
+deleterestaurants_1.jsp
+*L
+1,81:48
+81,3:129
+84,3:133
+86,10:136
+95,9:146
+*E

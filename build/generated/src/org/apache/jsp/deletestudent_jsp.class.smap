@@ -1,0 +1,18 @@
+SMAP
+deletestudent_jsp.java
+JSP
+*S JSP
+*F
++ 0 deletestudent.jsp
+deletestudent.jsp
+*L
+1,78:48
+78,2:126
+82,6:128
+88,7:134,3
+95:155
+96:156,3
+97,9:159
+106,3:169
+108,8:172
+*E

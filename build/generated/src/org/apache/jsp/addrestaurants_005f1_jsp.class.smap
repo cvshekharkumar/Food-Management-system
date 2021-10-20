@@ -1,0 +1,19 @@
+SMAP
+addrestaurants_005f1_jsp.java
+JSP
+*S JSP
+*F
++ 0 addrestaurants_1.jsp
+addrestaurants_1.jsp
+*L
+1,84:48
+84,2:132
+88,16:134
+103,3:150
+106,5:153,3
+111,2:168
+112:169,2
+113,2:171
+116,3:174
+118,10:177
+*E
